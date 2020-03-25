@@ -5,4 +5,4 @@ first using OpenCv we detect and track the face in real time.
 Than once the face is tracked we will pass it to blur algorithm.
 
 ### how to use 
- 
+Install requirement.txt 
